@@ -1,4 +1,4 @@
-# Welcome to Tristan's GitHub Profile! 👋
+# Welcome! 👋
 
 ## About Me
 🔥 I'm Tristan, also known as @TheDevStallion96. I'm deeply passionate about exploring new technologies and committed to turning innovative ideas into real-world applications.
